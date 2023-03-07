@@ -20,7 +20,6 @@
 |      retitle     |                `/retitle xx`                    |   Reviewer   |
 |     approve      |              `/approve`, `/approve cancel`      |   Approver   |
 |      rebase      |                    `/rebase`                    |   Approver   |
-|      merge       |   `/merge` , `/merge rebase`, `/merge squash`   |   Approver   |
 |    milestone     |                `/milestone name`                |  Maintainer  |
 | remove-milestone |            `/remove-milestone name`             |  Maintainer  |
 |     priority     |                `/priority name`                 |  Maintainer  |
